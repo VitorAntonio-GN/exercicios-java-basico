@@ -8,11 +8,11 @@
    - Se for maior ou igual a 40,0 "Obesidade III (Mórbida)";
 */
 
-package Exercicios2;
+package exercicios2;
 
 import java.util.Scanner;
 
-public class questao2 {
+public class Questao2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

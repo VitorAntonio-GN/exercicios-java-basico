@@ -1,11 +1,11 @@
-package Exercicios1;
+package exercicios1;
 import java.util.Scanner;
 
 /*
 4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas
 */
 
-public class questao4 {
+public class Questao4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

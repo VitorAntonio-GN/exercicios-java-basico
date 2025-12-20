@@ -1,4 +1,4 @@
-package Exercicios1;
+package exercicios1;
 import java.util.Scanner;
 
 /*
@@ -6,7 +6,7 @@ import java.util.Scanner;
    - fórmula: área=base X altura
 */
 
-public class questao3 {
+public class Questao3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

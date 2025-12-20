@@ -1,4 +1,4 @@
-package Exercicios1;
+package exercicios1;
 import java.util.Scanner;
 
 /*
@@ -6,7 +6,7 @@ import java.util.Scanner;
    - fórmula: área=lado X lado
 */
 
-public class questao2 {
+public class Questao2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

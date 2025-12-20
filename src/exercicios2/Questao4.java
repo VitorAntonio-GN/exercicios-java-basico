@@ -4,11 +4,11 @@ a execução do código irá continuar até que o número informado dividido pel
 números menores que o primeiro número devem ser ignorados
 */
 
-package Exercicios2;
+package exercicios2;
 
 import java.util.Scanner;
 
-public class questao4 {
+public class Questao4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

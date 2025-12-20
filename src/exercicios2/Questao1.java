@@ -2,11 +2,11 @@
 1. Escreva um código onde o usuário entra com um número e seja gerada a tabuada de 1 até 10 desse número;
 */
 
-package Exercicios2;
+package exercicios2;
 
 import java.util.Scanner;
 
-public class questao1 {
+public class Questao1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

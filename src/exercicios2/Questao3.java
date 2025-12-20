@@ -4,11 +4,11 @@ com isso o código deve informar todos os números pares ou ímpares (de acordo 
 incluindo os números informados e em ordem decrescente;
 */
 
-package Exercicios2;
+package exercicios2;
 
 import java.util.Scanner;
 
-public class questao3 {
+public class Questao3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
